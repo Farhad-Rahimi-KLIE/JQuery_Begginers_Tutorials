@@ -1,4 +1,5 @@
 // jquery Tutorials 
+// animate using relative values
 $("button").click(function(){
  $("div").animate({
  left:"250px",
