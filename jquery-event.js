@@ -1,3 +1,4 @@
+// jquery Tutorials 
 $("p").click()
 
 $("p").click(function(){
