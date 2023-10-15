@@ -1,3 +1,4 @@
+// element selecter
 // jquery Tutorials 
 $("p");
 $(document).ready(function(){
