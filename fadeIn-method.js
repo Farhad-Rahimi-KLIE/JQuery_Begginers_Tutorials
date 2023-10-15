@@ -1,4 +1,5 @@
-// jquery Tutorials 
+// jquery Tutorials
+// fade In method
 $("button").click(functuon(){
  $("#div1").fadeIn()
  $("#div2").fadeIn("slow")
