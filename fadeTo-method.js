@@ -1,3 +1,4 @@
+// fadeTo merhod
 // jquery Tutorials 
 $("button").click(functuon(){
  $("#div1").fadeTo()
