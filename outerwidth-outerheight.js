@@ -1,3 +1,4 @@
+// outerwidth outerheight
 // jquery Tutorials 
 $("button").click(function(){
  var txt = "";
