@@ -1,0 +1,1 @@
+$("p").css("background-color")
