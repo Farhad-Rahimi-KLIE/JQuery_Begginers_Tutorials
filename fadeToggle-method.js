@@ -1,3 +1,4 @@
+// jquery Tutorials 
 $("button").click(functuon(){
  $("#div1").fadeToggle()
  $("#div2").fadeToggle("slow")
