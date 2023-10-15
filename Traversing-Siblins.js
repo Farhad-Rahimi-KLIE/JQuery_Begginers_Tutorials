@@ -1,4 +1,5 @@
 /*
+traversing siblings 
 jquery Tutorials 
  1 - siblings()
  2 - next()
