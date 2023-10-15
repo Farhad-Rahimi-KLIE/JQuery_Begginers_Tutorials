@@ -1,4 +1,5 @@
 // jquery Tutorials 
+// innerwidth innerHeiggt
 $("button").click(function(){
  var txt = "";
  txt+= "innerwidth: " + $("#div1").innerwidth() + "</br>";
