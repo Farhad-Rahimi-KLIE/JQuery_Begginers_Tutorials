@@ -1,4 +1,5 @@
 /*
+ jquery Tutorials 
  1 - height
  2 - width
  3 - innerWidth
