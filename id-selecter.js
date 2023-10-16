@@ -1,5 +1,5 @@
 // jquery Tutorials
-// Id Selectar
+// id Selectar
 $(document).ready(function(){
  $("#test").click(function(){
   $(this).hide()
