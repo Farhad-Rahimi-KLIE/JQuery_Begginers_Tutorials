@@ -1,3 +1,3 @@
 // remove
-// jquery Tutorials 
+// jquery Tutorial
 $("#div1").remove();
