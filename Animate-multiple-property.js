@@ -3,7 +3,7 @@
 $("button").click(function(){
  $("p").animate({
  left:"250px",
- opacity: "0.5",
+ opacity: "0.3",
  height:"150px",
  width:"150px"
  })
