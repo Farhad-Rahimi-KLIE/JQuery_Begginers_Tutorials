@@ -1,5 +1,5 @@
 // removeClass
-// jquery Tutorial
+// jquery Tutorials
 $("button").click(function(){
  $("h1,h2,p").removeClass("blue");
 })
