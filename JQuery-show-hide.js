@@ -1,4 +1,4 @@
-// jquery Tutorial
+// jquery Tutorials
 // jquery show and hide
 $("#show").click(function(){
  $(this).show()
