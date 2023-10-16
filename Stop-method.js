@@ -1,5 +1,5 @@
 // jquery Tutorials
-// stop method
+// Stop method
 $("button").click(function(){
  $("div").stop()
 })
