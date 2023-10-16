@@ -1,6 +1,6 @@
 /*
 traversing down
-jquery Tutorial
+jquery Tutorials
  1 - parent
  2 - parents
  3 - parentsUtil
