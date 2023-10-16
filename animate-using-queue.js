@@ -1,4 +1,4 @@
-// jquery Tutorial
+// jquery Tutorials
 // animate using queue
 $("button").click(function(){
  $("div").animate({
