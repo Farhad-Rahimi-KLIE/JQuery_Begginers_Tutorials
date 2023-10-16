@@ -1,5 +1,5 @@
 // jquery EQ method
-// jquery Tutorials 
+// jquery Tutorial
 $(document).ready(function(){
  $("span").eq()
 })
