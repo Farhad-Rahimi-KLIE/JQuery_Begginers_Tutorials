@@ -1,5 +1,5 @@
 // JQUERY Tutorials
-// Document Ready
+// document Ready
 $(document).ready(function(){
  // Jquery methods go here
 })
