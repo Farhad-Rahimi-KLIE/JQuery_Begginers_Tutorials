@@ -1,4 +1,4 @@
-// jquery Tutorials 
+// jquery Tutorial
 // get content text
 $("button").click(function(){
 alert("Hello World" + $("#test").text())
