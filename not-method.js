@@ -1,5 +1,5 @@
 // jquery Tutorials
 // not method
 $(document).ready(function(){
- $("span").not(".intro")
+ $("span").not(".khan")
 })
