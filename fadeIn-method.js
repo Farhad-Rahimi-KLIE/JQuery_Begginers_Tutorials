@@ -1,4 +1,4 @@
-// Jquery Tutorial
+// Jquery Tutorials
 // fade In method
 $("button").click(functuon(){
  $("#div1").fadeIn()
