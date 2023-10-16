@@ -1,4 +1,4 @@
-// jquery Tutorial
+// jquery Tutorials
 // animate using relative values
 $("button").click(function(){
  $("div").animate({
