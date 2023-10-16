@@ -1,4 +1,4 @@
 // jquery Tutorials
 // before after method
-$("img").after("Some text after.")
-$("img").before("Some text before")
+$("img").after("Some of text after.")
+$("img").before("Some of text before")
