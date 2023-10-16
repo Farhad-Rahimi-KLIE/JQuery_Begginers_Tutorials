@@ -1,3 +1,3 @@
 // empty
-// jquery Tutorials 
+// jquery Tutorial
 $("#div1").enpty()
