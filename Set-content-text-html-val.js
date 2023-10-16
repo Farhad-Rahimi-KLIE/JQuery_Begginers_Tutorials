@@ -1,7 +1,7 @@
 // Set content text
 // jquery Tutorials
 $("button").click(function(){
-$("p1").text("Hello World");
+$("p1").text("Hello Klie");
 })
 $("button1").click(function(){
  $("p2").html("<p>Hello World<p/>");
