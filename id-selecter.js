@@ -1,4 +1,4 @@
-// jquery Tutorials 
+// jquery Tutorial
 // Id Selectar
 $(document).ready(function(){
  $("#test").click(function(){
