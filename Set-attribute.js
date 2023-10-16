@@ -1,5 +1,5 @@
 // set Attribute 
-// jquery Tutorial
+// jquery Tutorials
 $("button").click(function(){
 alert("Hello World").attr("href")
 })
