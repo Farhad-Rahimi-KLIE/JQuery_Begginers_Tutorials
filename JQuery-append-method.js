@@ -1,3 +1,3 @@
 // jquery Tutorials
 // jquery append method 
-$("p").append("Some of my Portfolios")
+$("p").append("Some of my best Portfolios")
