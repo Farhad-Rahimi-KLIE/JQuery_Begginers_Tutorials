@@ -1,4 +1,4 @@
-// jquery Tutorial
+// jquery Tutorials
 // fade Toggle
 $("button").click(functuon(){
  $("#div1").fadeToggle()
