@@ -1,5 +1,5 @@
 // events
-// jquery Tutorial
+// jquery Tutorials
 $("p").click()
 
 $("p").click(function(){
