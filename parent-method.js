@@ -1,5 +1,5 @@
 // parent
-// jquery Tutorials
+// JQuery Tutorials
 $(document).ready(function(){
  $("span").parent()
 })
