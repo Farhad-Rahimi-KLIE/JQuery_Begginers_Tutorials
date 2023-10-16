@@ -1,5 +1,5 @@
 /*
 what is jquery 
-jquery Tutorial
+jquery Tutorials
  JQuery is a lightweight, "write less, do more", javascript library
 */
