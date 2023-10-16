@@ -1,4 +1,4 @@
-// jquery Tutorials 
+// jquery Tutorial
 // jquery animate-method
 $("button").click(function(){
  $("div").animate({left:"250px"})
