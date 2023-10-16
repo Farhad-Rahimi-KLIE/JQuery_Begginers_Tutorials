@@ -1,5 +1,5 @@
 // element selecter
-// jquery Tutorials 
+// jquery Tutorial
 $("p");
 $(document).ready(function(){
  $("p").click(function(){
