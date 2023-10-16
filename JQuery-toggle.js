@@ -1,5 +1,5 @@
 // jquery Tutorials
 // jquery toggle
 $("#input").click(function(){
- $("h2").toggle()
+ $("h5").toggle()
 })
