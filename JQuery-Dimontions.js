@@ -1,6 +1,6 @@
 /*
  Jquery Tutorials
- jauery dimontation
+ JQuery dimontation
  1 - height
  2 - width
  3 - innerWidth
