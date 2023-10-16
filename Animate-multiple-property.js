@@ -1,4 +1,4 @@
-// JQuery Tutorial
+// JQuery Tutorials
 // animate multiple property
 $("button").click(function(){
  $("div").animate({
