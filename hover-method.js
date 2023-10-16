@@ -1,5 +1,5 @@
 // hover
-// jquery Tutorial
+// jquery Tutorials
 $("p").hover(function(){
  alert("hello")
 }),
