@@ -1,5 +1,5 @@
 // jquery Tutorials
-// jquery Example
+// jquery Examples
 $(document).ready(function(){
  $("p").click(function(){
   $(this).hide()
