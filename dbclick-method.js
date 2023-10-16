@@ -1,5 +1,5 @@
 // dblclick 
-// jquery Tutorials
+// JQuery Tutorials
 $("p").dblclick(function(){
  $(this).hide()
 })
