@@ -1,5 +1,5 @@
 // parentUntil
-// jquery Tutorials 
+// jquery Tutorial
 $(document).ready(function(){
  $("span").parentsUntil()
 })
