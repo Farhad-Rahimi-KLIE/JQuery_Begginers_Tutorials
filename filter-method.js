@@ -1,4 +1,4 @@
-// jquery Tutorials
+// JQuery Tutorials
 // filter
 $(document).ready(function(){
  $("span").filter()
