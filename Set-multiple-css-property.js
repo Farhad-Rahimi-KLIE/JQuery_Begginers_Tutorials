@@ -1,3 +1,3 @@
 // set multiple css property
-// jquery Tutorial
+// jquery Tutorials
 $("p").css({"background-color:"yellow", font-size:"20px""})
