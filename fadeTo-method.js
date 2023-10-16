@@ -1,5 +1,5 @@
 // fadeTo merhod
-// jquery Tutorials 
+// jquery Tutorial
 $("button").click(functuon(){
  $("#div1").fadeTo()
  $("#div2").fadeTo("slow")
