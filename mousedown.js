@@ -1,5 +1,5 @@
 // mousedown 
-// jquery Tutorials
+// Jquery Tutorials
 $("p").mousedown(function(){
  $(this).hide()
 })
