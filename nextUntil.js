@@ -1,5 +1,5 @@
 // nextUntil
-// jquery Tutorials 
+// jquery Tutorial
 $(document).ready(function(){
  $("span").nextUntil()
 })
