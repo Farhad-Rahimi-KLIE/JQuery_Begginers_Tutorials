@@ -1,4 +1,4 @@
-// jquery Tutorial
+// jquery Tutorials
 // jquery height and width method
 $("button").click(function(){
  var txt = "";
