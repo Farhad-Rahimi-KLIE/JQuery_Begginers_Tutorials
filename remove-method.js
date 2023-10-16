@@ -1,3 +1,3 @@
 // remove
 // jquery Tutorials
-$("#div1").remove();
+$("#div2").remove();
