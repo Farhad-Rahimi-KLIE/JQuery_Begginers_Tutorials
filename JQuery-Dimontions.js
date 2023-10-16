@@ -1,5 +1,5 @@
 /*
- jquery Tutorials 
+ Jquery Tutorial
  jauery dimontation
  1 - height
  2 - width
