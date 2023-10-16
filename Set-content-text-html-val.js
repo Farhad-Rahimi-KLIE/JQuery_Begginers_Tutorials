@@ -1,4 +1,4 @@
-// set content text
+// Set content text
 // jquery Tutorials
 $("button").click(function(){
 $("p1").text("Hello World");
