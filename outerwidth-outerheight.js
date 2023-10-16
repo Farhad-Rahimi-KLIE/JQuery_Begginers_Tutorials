@@ -1,5 +1,5 @@
 // outerwidth outerheight
-// jquery Tutorials 
+// jquery Tutorial
 $("button").click(function(){
  var txt = "";
  txt+= "outerwidth: " + $("#div1").Outerwidth() + "</br>";
