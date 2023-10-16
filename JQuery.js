@@ -1,5 +1,5 @@
 /*
-jquery Tutorial
+jquery Tutorials
 jquery 
  1 - jquery is a javascript library
  2 - jquery greatly simplifies javascript Programming
