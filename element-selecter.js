@@ -1,4 +1,4 @@
-// element selecter
+// element Selecter
 // jquery Tutorials
 $("p");
 $(document).ready(function(){
