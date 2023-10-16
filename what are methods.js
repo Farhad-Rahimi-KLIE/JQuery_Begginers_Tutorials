@@ -1,4 +1,4 @@
-// what are method
+// What are method
 // jquery Tutorials
 // moving a mouse over an element
 // selecting a radio button
