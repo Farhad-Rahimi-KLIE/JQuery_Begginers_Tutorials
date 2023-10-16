@@ -1,5 +1,5 @@
 /*
-JQUERY Tutorials 
+JQUERY Tutorial
 fading Method
  1 - fadeIn()
  2 - fadeout()
