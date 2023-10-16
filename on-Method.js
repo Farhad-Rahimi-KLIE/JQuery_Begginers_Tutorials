@@ -1,5 +1,5 @@
 // on method
-// jquery Tutorial
+// jquery Tutorials
 $("p").on(function(){
  $(this).hide()
 })
