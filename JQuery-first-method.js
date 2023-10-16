@@ -1,5 +1,5 @@
 // jquery first method
-// jquery Tutorials 
+// jquery Tutorial
 $(document).ready(function(){
  $("span").first()
 })
