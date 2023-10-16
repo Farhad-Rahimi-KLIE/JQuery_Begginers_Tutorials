@@ -1,5 +1,5 @@
 // jquery Tutorials
-// next method
+// Next method
 $(document).ready(function(){
  $("span").next()
 })
