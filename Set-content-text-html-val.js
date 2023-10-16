@@ -1,5 +1,5 @@
 // set content text
-// jquery Tutorials 
+// jquery Tutorial
 $("button").click(function(){
 $("p1").text("Hello World");
 })
