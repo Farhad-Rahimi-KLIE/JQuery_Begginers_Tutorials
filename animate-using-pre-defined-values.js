@@ -1,4 +1,4 @@
-// jquery Tutorials 
+// jquery Tutorial
 // animate using pre defined
 $("button").click(function(){
  $("div").animate({
