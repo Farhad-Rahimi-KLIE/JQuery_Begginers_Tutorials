@@ -1,5 +1,5 @@
 // mouseup 
-// jquery Tutorial
+// jquery Tutorials
 $("p").mouseup(function(){
  $(this).hide()
 })
