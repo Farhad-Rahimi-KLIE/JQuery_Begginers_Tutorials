@@ -1,5 +1,5 @@
 // slidedown
 // jquery Tutorials
 $("#flip").click(function(){
- $("#panel").slideDwon()
+ $("#janel").slideDwon()
 })
