@@ -1,5 +1,5 @@
 // JQuery Last
-// jquery Tutorials
+// JQuery Tutorials
 $(document).ready(function(){
  $("span").last()
 })
