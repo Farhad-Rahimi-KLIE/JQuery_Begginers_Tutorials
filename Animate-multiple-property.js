@@ -1,7 +1,7 @@
 // JQuery Tutorials
 // animate multiple property
 $("button").click(function(){
- $("p").animate({
+ $("span").animate({
  left:"250px",
  opacity: "0.3",
  height:"150px",
