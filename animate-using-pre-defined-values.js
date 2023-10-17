@@ -2,7 +2,7 @@
 // Animate using pre defined
 $("button").click(function(){
  $("div").animate({
- left:"250px",
+ left:"260px",
  height: "toggle"
  })
 })
