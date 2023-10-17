@@ -1,5 +1,5 @@
 // toggleClass
-// jquery Tutorials
+// JQuery Tutorials
 $("button").click(function(){
  $("h1,h2,span").toggleClass("blue");
 })
