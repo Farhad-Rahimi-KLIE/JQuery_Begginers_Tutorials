@@ -1,5 +1,5 @@
 // Click method
 // jquery Tutorials
-$("p").click(function(){
+$("#php").click(function(){
  $(this).hide()
 })
