@@ -2,6 +2,6 @@
 // callBack
 $("button").click(function(){
  $("div").hide("slide",function(){
-  alert("Hello Mister Klie")
+  alert("Salaam Mister Klie")
  })
 })
