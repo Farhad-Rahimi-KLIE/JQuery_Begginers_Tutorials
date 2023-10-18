@@ -1,5 +1,5 @@
 // slideUp
 // jquery Tutorials
-$("#flip").click(function(){
+$("#fliip").click(function(){
  $("#panel").slideUp()
 })
