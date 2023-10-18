@@ -1,5 +1,5 @@
 // mouseenter
-// jquery Tutorials
+// jquery Tutorial
 $(".para").mouseenter(function(){
  $(this).hide()
 })
