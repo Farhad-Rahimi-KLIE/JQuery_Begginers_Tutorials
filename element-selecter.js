@@ -2,7 +2,7 @@
 // jquery Tutorials
 $("p");
 $(document).ready(function(){
- $("p").click(function(){
+ $(".pan").click(function(){
   $(this).hide()
  })
 })
