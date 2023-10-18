@@ -1,5 +1,5 @@
 // focus
 // JQuery Tutorials
 $("input").focus(function(){
- $(this).css("background-color","#cccccc")
+ $(this).css("background-color","#ffffff")
 })
