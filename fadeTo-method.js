@@ -1,4 +1,4 @@
-// fadeTo method
+// fadeTo Method
 // jquery Tutorials
 $("button").click(functuon(){
  $("#div1").fadeTo()
