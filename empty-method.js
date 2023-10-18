@@ -1,3 +1,3 @@
 // Empty
 // jquery Tutorials
-$("#div1").enpty()
+$("#div4").enpty()
