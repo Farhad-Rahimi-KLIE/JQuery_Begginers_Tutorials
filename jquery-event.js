@@ -3,5 +3,5 @@
 $("p").click()
 
 $("p").click(function(){
- console.log("jaaan")
+ console.log("jaaaan")
 })
