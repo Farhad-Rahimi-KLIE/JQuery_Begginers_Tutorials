@@ -2,7 +2,7 @@
 // innerwidth innerHeiggt
 $("button").click(function(){
  var txt = "";
- txt+= "innerwidth: " + $("#div2").innerwidth() + "</br>";
+ txt+= "innerwidth: " + $("#div4").innerwidth() + "</br>";
  txt+= "innerheight: " + $("#div1").innerheight()
  $("#div1").html(txt)
 })
