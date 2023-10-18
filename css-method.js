@@ -1,3 +1,3 @@
 // css method
-// jquery Tutorials
+// JQuery Tutorials
 $("#main").css("background-color")
