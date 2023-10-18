@@ -1,5 +1,5 @@
 // JQuery Tutorials
-// fade Out method
+// fade Out Method
 $("button").click(functuon(){
  $("#div1").fadeOut()
  $("#div2").fadeOut("slow")
