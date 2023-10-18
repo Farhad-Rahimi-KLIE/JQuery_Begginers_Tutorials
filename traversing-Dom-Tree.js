@@ -1,5 +1,5 @@
 /*
-Traversing down
+Traversing Down
 jquery Tutorials
  1 - parent
  2 - parents
