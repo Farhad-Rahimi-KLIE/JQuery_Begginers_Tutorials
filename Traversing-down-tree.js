@@ -1,6 +1,6 @@
 /*
 Traversing Down tree
-jquery Tutorials
+jquery Tutorial
  1 - children
  2 - find
 */
