@@ -1,4 +1,4 @@
-// JQuery Tutorials
+// JQuery Tutorial
 // fade Out Method
 $("button").click(functuon(){
  $("#div1").fadeOut()
