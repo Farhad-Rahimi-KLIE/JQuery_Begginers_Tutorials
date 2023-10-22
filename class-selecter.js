@@ -1,5 +1,5 @@
 // Class Selecter
-// jquery Tutorials
+// jquery Tutorial
 $(document).ready(function(){
  $(".para").click(function(){
   $(this).hide()
