@@ -1,5 +1,5 @@
 // children Method
-// jquery tutorials
+// jquery tutorial
 $(document).ready(function(){
  $("span").children()
 })
