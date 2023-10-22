@@ -1,5 +1,5 @@
 // nextall
-// jquery Tutorials
+// jquery Tutorial
 $(document).ready(function(){
  $(".span").nextAll()
 })
