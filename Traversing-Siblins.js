@@ -1,6 +1,6 @@
 /*
 Traversing Siblings 
-jquery Tutorials
+jquery Tutorial
  1 - siblings()
  2 - next()
  3 - nextAll()
