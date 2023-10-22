@@ -1,5 +1,5 @@
 // parents
-// jquery Tutorials
+// jquery Tutorial
 $(document).ready(function(){
  $("#all").parents()
 })
