@@ -1,5 +1,5 @@
 // JQuery Tutorial
-// find
+// Find
 $(document).ready(function(){
  $("span").find()
 })
