@@ -1,4 +1,4 @@
-// jquery Tutorials
+// jquery Tutorial
 // innerwidth innerHeiggt
 $("button").click(function(){
  var txt = "";
