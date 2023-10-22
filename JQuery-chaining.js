@@ -1,3 +1,3 @@
 // jquery chaining
-// JQuery Tutorials
+// JQuery Tutorial
 $("#p1").css("color","white").slideUp(2000).slideDown(2000)
