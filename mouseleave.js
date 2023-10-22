@@ -1,5 +1,5 @@
 // mouseleave
-// Jquery Tutorial
+// JQuery Tutorial
 $("p").mouseleave(function(){
  $(this).hide()
 })
