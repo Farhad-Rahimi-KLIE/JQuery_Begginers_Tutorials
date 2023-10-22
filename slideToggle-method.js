@@ -1,5 +1,5 @@
 // sidetoggle
-// jquery Tutorials
+// jquery Tutorial
 $("#flip").click(function(){
  $("#paneel").slideToggle()
 })
