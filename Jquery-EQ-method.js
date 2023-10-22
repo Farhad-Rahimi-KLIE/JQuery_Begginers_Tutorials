@@ -1,5 +1,5 @@
 // jquery EQ Method
-// JQuery Tutorials
+// JQuery Tutorial
 $(document).ready(function(){
  $("div").eq()
 })
