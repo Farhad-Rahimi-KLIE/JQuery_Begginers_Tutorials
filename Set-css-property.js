@@ -1,3 +1,3 @@
 // set CSS property
-// jquery Tutorials
+// jquery Tutorial
 $("p").css("background-color: purple")
