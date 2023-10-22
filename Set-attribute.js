@@ -1,5 +1,5 @@
 // Set Attribute 
-// jquery Tutorials
+// jquery Tutorial
 $("button").click(function(){
 alert("Salaam Klie").attr("href")
 })
