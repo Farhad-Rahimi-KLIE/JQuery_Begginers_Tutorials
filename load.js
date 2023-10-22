@@ -1,3 +1,3 @@
 // jquery Tutorial
-// Load
+// load
 $("#div1").load("demo_test.txt");
