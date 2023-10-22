@@ -1,5 +1,5 @@
 // element Selecter
-// jquery Tutorials
+// jquery Tutorial
 $("p");
 $(document).ready(function(){
  $(".pan").click(function(){
